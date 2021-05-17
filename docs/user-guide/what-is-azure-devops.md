@@ -1,4 +1,4 @@
-﻿---
+---
 title: Plan, code, collaborate, ship applications
 titleSuffix: Azure DevOps 
 ms.custom: seodec18, contperf-fy21q3
